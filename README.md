@@ -1,4 +1,4 @@
-## Pineat
+## ![This is an image](/100.png) Pineat
 
 Where did I eat this food?
 
