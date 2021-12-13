@@ -38,4 +38,4 @@ For more details check out Pineat app in the AppStore [AppStore](https://apps.ap
 
 ### Support or Contact
 
-Having trouble with Pineat? Send an e-mail [pineat.app@gmail.com ](pineat.app@gmail.com)
+Having trouble with Pineat? Send an e-mail to [pineat.app@gmail.com ](pineat.app@gmail.com)
